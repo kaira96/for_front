@@ -15,7 +15,6 @@ def automatic_catalog_calendar_elaboration(
     action,
     **kwargs
 ):
-    print(f'\n\n\n\n\n\n\n ACTION IS {action} \n\n\n\n\n\n\n')
 
     if action == 'post_add':
         print(f'\n\n\n\n\n\n\n ACTION IN FUNC IS {action} \n\n\n\n\n\n\n')
